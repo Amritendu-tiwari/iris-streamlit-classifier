@@ -31,3 +31,6 @@ This project is a simple web application built using **Streamlit** that classifi
 ```bash
 git clone https://github.com/yourusername/iris-streamlit-classifier.git
 cd iris-streamlit-classifier
+
+###2. Run the code
+streamlit run file_name.py
